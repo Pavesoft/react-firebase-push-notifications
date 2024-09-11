@@ -40,3 +40,7 @@ Within this project, we will need the following libraries:
 - [React-hot-toast](https://react-hot-toast.com/): A lightweight package for showing notifications (foreground notifications)
 
 
+![image](https://github.com/user-attachments/assets/061fe930-c48b-4e64-9e2d-d38ef54a3341)
+
+
+
