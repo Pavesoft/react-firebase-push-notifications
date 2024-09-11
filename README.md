@@ -28,7 +28,7 @@ An FCM implementation includes two main components for sending and receiving:
 3. Launch app
  
    ```bash
-   npm install
+   npm start
    ```
 
 
