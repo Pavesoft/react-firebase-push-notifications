@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5f5029ad-4ba6-42fe-b00a-9dd7502f1dfc)# Firebase Push Notifications in React
+# Firebase Push Notifications in React
 
 Push notifications are a powerful way to engage users by delivering timely and relevant information directly to their devices.  Firebase provides Firebase Cloud Messaging (FCM) service. It is a cloud-based messaging service that allows us to send notifications to mobile devices and web applications. 
 
