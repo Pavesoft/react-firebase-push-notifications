@@ -15,9 +15,9 @@ An FCM implementation includes two main components for sending and receiving:
 
  1. Clone this repository
  
-   ```bash
-   git clone https://github.com/Pavesoft/react-firebase-push-notifications.git
-   ```
+    ```bash
+    git clone https://github.com/Pavesoft/react-firebase-push-notifications.git
+    ```
 
 2. Install Dependencies
  
